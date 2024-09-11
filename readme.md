@@ -1,6 +1,6 @@
 # Benchmark for Elasticsearch vs VictoriaLogs vs Loki
 
-Benchmark compares VictoriaLogs with ELK stack and Grafana Loki.
+Benchmark compares VictoriaLogs, ELK stack and Grafana Loki.
 
 Benchmark is based on:
 

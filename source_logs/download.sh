@@ -17,6 +17,11 @@ if [ ! -f Linux.tar.gz ]; then
   wget https://zenodo.org/record/3227177/files/Linux.tar.gz
 fi
 
+# Unarchived size: 32G Thunderbird.log
+if [ ! -f Thunderbird.tar.gz ]; then
+  wget https://zenodo.org/record/3227177/files/Thunderbird.tar.gz
+fi
+
 # Unarchived size: 73M SSH.log
 if [ ! -f SSH.tar.gz ]; then
   wget https://zenodo.org/record/3227177/files/SSH.tar.gz
